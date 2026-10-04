@@ -14,6 +14,6 @@ int main()
         result=0;
        
     }
-     printf("f(%.1f) = %.1f",x,result);
+     printf("f(%.2f) = %.2f",x,result);
     return 0;
 }
